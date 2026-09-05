@@ -17,9 +17,9 @@ export default function Home() {
         {/* Social Media Links - Terminal Style */}
         <div className="flex flex-wrap justify-center gap-4 relative z-10 font-mono text-sm">
           <a href="https://github.com/maarijrizvi" target="_blank" rel="noopener noreferrer" className="px-5 py-2 bg-zinc-900 border border-zinc-800 hover:border-emerald-500/50 hover:text-emerald-400 transition-all duration-200">
-            [ Instagram ]
+            [ GitHub ]
           </a>
-          <a href="https://linkedin.com/in/maarijrizvii" target="_blank" rel="noopener noreferrer" className="px-5 py-2 bg-zinc-900 border border-zinc-800 hover:border-emerald-500/50 hover:text-emerald-400 transition-all duration-200">
+          <a href="https://x.com/maarijrizvii" target="_blank" rel="noopener noreferrer" className="px-5 py-2 bg-zinc-900 border border-zinc-800 hover:border-emerald-500/50 hover:text-emerald-400 transition-all duration-200">
             [ X ]
           </a>
           <a href="https://youtube.com/@_shadyy" target="_blank" rel="noopener noreferrer" className="px-5 py-2 bg-zinc-900 border border-zinc-800 hover:border-emerald-500/50 hover:text-emerald-400 transition-all duration-200">
