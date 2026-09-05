@@ -10,8 +10,9 @@ export default function Home() {
         <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-zinc-100 mb-6 relative z-10">
           Hello World, I am <span className="font-mono text-emerald-400 drop-shadow-[0_0_15px_rgba(52,211,153,0.2)]">Maarij</span>
         </h1>
-        <p className="text-xl md:text-2xl font-mono text-zinc-500 max-w-2xl relative z-10 mb-8">
-          Aspiring Functioning Human_
+        <p className="text-xl md:text-2xl font-mono text-zinc-500 max-w-2xl relative z-10 mb-8 flex items-center justify-center gap-1">
+          <span>&gt; Aspiring Functioning Human</span>
+          <span className="animate-blink font-bold text-emerald-500">_</span>
         </p>
 
         {/* Social Media Links - Terminal Style */}
